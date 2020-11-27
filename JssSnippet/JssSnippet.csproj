@@ -209,7 +209,6 @@
     <Compile Include="Constants.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\CustomLayoutService.cs" />
-    <Compile Include="Services\SnippetCacheService.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\Foundation\JssSnippet.Foundation.Extensions.LayoutService.config" />
